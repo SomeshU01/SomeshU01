@@ -1,4 +1,56 @@
-## Hi there 👋
+# Hi 👋, I'm Somesh Uphad
+
+🔐 SOC Analyst | Threat Hunter | SIEM Enthusiast
+
+🎓 B.E. Artificial Intelligence & Data Science (2026)
+
+---
+
+## 🚀 About Me
+- 🔭 Working on SOC & Threat Hunting Projects
+- 🛡️ Learning Splunk, QRadar & Microsoft Sentinel
+- 🌱 Currently learning KQL & Advanced SPL
+- ⚡ Interested in Incident Response & Malware Analysis
+- 🎯 Goal: Become a high-impact Cybersecurity Engineer
+
+---
+
+## 🛠️ Skills
+
+### Security Tools
+- Splunk
+- QRadar
+- Microsoft Sentinel
+- Wireshark
+- Snort
+- Suricata
+
+### Programming
+- Python
+- SQL
+- Linux
+- Windows
+
+### Security Concepts
+- SIEM Monitoring
+- Threat Hunting
+- Incident Response
+- MITRE ATT&CK
+- Log Analysis
+
+---
+
+## 📌 Featured Projects
+- SOC Home Lab
+- Brute Force Detection using Splunk
+- Phishing Email Analysis
+- AI-Powered Student Performance Monitoring System
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/your-linkedin
+- Email: yourmail@gmail.com## Hi there 👋
 
 <!--
 **SomeshU01/SomeshU01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
