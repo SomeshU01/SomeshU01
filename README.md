@@ -49,8 +49,10 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/your-linkedin
-- Email: yourmail@gmail.com## Hi there 👋
+- LinkedIn: www.linkedin.com/in/somesh-uphad-1a94b8393/
+- TryHackme: tryhackme.com/p/uphadsomesh121 
+- Email:uphadsomesh121@gmail.com
+- ## Hi there 👋
 
 <!--
 **SomeshU01/SomeshU01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
